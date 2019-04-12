@@ -1,2 +1,7 @@
-data/
+*.tiff
+*.edf
 figures/
+data/ALS
+data/NSLS-II
+data/CHESS
+data/UV
