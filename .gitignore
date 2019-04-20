@@ -1,5 +1,3 @@
-*.tiff
-*.edf
 figures/
 data/ALS
 data/NSLS-II
